@@ -1,0 +1,29 @@
+Item_01: Soccer Ball; US Price: 85.51$; Country: France; Local Price: 76.44EUR
+Item_01: Soccer Ball; US Price: 85.51$; Country: China; Local Price:  562.1CNY
+Item_01: Soccer Ball; US Price: 85.51$; Country: United Kingdom; Local Price:  59.36GBP
+Item_01: Soccer Ball; US Price: 85.51$; Country: Ukraine; Local Price:  2144.17UAH
+Item_01: Soccer Ball; US Price: 85.51$; Country: Russian Federation; Local Price:  5719.84RUB
+========================================
+Item_02: Withings Activity Tracker + Sleep; US Price: 73.39$; Country: France; Local Price:  65.61EUR
+Item_02: Withings Activity Tracker + Sleep; US Price: 73.39$; Country: China; Local Price: 482.43CNY
+Item_02: Withings Activity Tracker + Sleep; US Price: 73.39$; Country: United Kingdom; Local Price:  50.94GBP
+Item_02: Withings Activity Tracker + Sleep; US Price: 73.39$; Country: Ukraine; Local Price:  1840.26UAH
+Item_02: Withings Activity Tracker + Sleep; US Price: 73.39$; Country: Russian Federation; Local Price:  4909.12RUB
+========================================
+Item_03: Samsung Galaxy Unlocked Phone; US Price: 145.94$; Country: France; Local Price:  130.46EUR
+Item_03: Samsung Galaxy Unlocked Phone; US Price: 145.94$; Country: China; Local Price:  959.33CNY
+Item_03: Samsung Galaxy Unlocked Phone; US Price: 145.94$; Country: United Kingdom; Local Price:  101.3GBP
+Item_03: Samsung Galaxy Unlocked Phone; US Price: 145.94$; Country: Ukraine; Local Price:  3659.45UAH
+Item_03: Samsung Galaxy Unlocked Phone; US Price: 145.94$; Country: Russian Federation; Local Price:  9762.05RUB
+========================================
+Item_04: GoPro HERO3; US Price: 328.99$; Country: France; Local Price:  294.09EUR
+Item_04: GoPro HERO3; US Price: 328.99$; Country: China; Local Price:  2162.59CNY
+Item_04: GoPro HERO3; US Price: 328.99$; Country: United Kingdom; Local Price:  228.36GBP
+Item_04: GoPro HERO3; US Price: 328.99$; Country: Ukraine; Local Price:  8249.43UAH
+Item_04: GoPro HERO3; US Price: 328.99$; Country: Russian Federation; Local Price:  22006.41RUB
+========================================
+Item_05: iPhone 6s 64 GB Unlocked; US Price: 829.09$; Country: France; Local Price:  741.13EUR
+Item_05: iPhone 6s 64 GB Unlocked; US Price: 829.09$; Country: China; Local Price:  5449.95CNY
+Item_05: iPhone 6s 64 GB Unlocked; US Price: 829.09$; Country: United Kingdom; Local Price:  575.48GBP
+Item_05: iPhone 6s 64 GB Unlocked; US Price: 829.09$; Country: Ukraine; Local Price:  20789.44UAH
+Item_05: iPhone 6s 64 GB Unlocked; US Price: 829.09$; Country: Russian Federation; Local Price:  55458.5RUB
